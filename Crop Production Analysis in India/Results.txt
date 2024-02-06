@@ -1,0 +1,52 @@
+Cash Crops are highly produced in India,followed by speciality crops
+
+South Zone stands highest in production and Union Territory stands seconf highest
+Kerela is the state with highest production of crops,followed by Andhra Pradesh
+Kozhikode, Malappuram, Thiruvananthapuram are the top 3 high producing District in Kerela
+Coconut is the largest producing crop in South Zone
+
+Andaman and Nicobar Islands have highest production in Union Territory,followed by Puducherry
+Coconut is the largest producing crop in Union Territory.
+Nicobars,South Andamans and North and Middle Andaman are the top Districts in Andaman and Nicobar which have high Crop Production.
+
+Haryana and Punjab are the state that produce highest units of crops in North Zone.
+Sugarcane, Wheat and Rice are the top 3 crops produced in North Zone
+
+Goa produces highest unit of crops in West Zone.
+Sugarcane and Coconut are the crops that are highly produced in West Zone.
+
+West Bengal produces highest unit of crops in East Zone.
+Coconut and Rice are the top crops produced in East Zone.
+
+Madhya Pradesh and Chhattisgarh produce almost same amount of crops in Central Zone.
+Wheat, Rice and Soyabean are the top 3 crops produced in Central Zone.
+
+Assam produces highest unit of crops in North East Zone.
+ Nagaon, Kamrup, Sonitpur, Golaghat and Nalbari are the top 5 Districts in Assam with high production
+Coconut is the highest producing crop in North East.
+
+ 2011 has the highest Produce Units,followed by 2013
+1997 is the year with lowest Produce.
+
+In 2011(highest producing Year), Coconut is the Highest producing Crop,followed by Sugarcane in the States- Tamil Nadu,Kerala,Andhra Pradesh,Telangana and Puducherry
+
+In 2014 (second highest producing Year), Coconut is the Highest producing Crop,followed by Sugarcane in the States- Kerala, Andhra Pradesh, Puducherry and Karnataka
+
+Uttar Pradesh stands highest in producing variety of crops.
+
+Coconut, Sugarcane, Rice, Wheat and Potato are the top 5 Crops which have high Production in India.
+Sugarcane, Sannhamp,Moong(Green Gram),Urad and Castor Seed are the top 5 highest Yielding crops in India.
+
+West Zone covers the largest area followed by North and South Zone.
+
+Uttar Pradesh, Madhya Pradesh, Maharashtra, Rajasthan and West Bengal covers the largest amount of Area State wise.
+
+Season wise, Whole year has the most producing units ,followed by Kharif and Rabi.
+
+Rice is grown in high Frequency in India.
+East, North and South Zone produce the largest amount of Rice crop.
+West Bengal, Uttar Pradesh, Punjab, Andhra Pradesh and Odisha are the top 5 States producing large amounts of Rice Crop.
+Rice Crop production is almost equal in all the years.
+
+Link to Workbook-
+https://public.tableau.com/app/profile/shalini.pal1346/viz/CropProductionAnalysisinIndia_17068715367810/Story1?publish=yes
