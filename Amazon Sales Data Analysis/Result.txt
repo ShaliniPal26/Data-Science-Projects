@@ -1,0 +1,25 @@
+Observations:
+1. Top 5 Items that are sold are Clothes,Office Supplies,Fruits,Personal Care and Cosmetics
+
+2. Clothes,Cosmetics and Personal Care are top 3 Items which have a high Profit Margin %.
+
+3. Countries with highest sales are Mexico,Brunei,Cameroon,Mozambique and Romania.
+
+4. High profits and High Sales were made in the year 2012,2014 and 2010
+
+5. 2010,2011,2012 and 2014 are the year with highest number of units sold.
+
+6.  On average high profits were made in February,April and November month.
+
+7. On average ,sales started dropping after April until September.
+
+8. February 2010(Online),November 2010(Online),April 2014(Ofline) and November 2011(Both) have highest Profit Margin with 39.76% approximately.
+
+9. Online Sales contribute to 51.6% of the Sales whereas Offline contribute to 48.4% of the Sales.
+
+10. With respect to year-month wise which have high profit gains,Both the Channels (Online and Oflfline contributed equally)
+
+11. 2012 is the year in which highest profit and highest Sales were made
+
+ 
+ 

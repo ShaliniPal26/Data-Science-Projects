@@ -1,0 +1,29 @@
+'Region',
+
+'Country',
+
+'Item Type'
+
+'Sales Channel'
+
+'Ship Date' 
+
+'Units Sold' - Unit sales refers to the number of individual items that a company sells. 
+
+'Unit Price' The unit selling price is the amount a company charges for a single item of a product or use of a service. 
+
+'Unit Cost' A unit cost is the total expenditure incurred by a company to produce, store, and sell one unit of a particular product or service. 
+
+'Total Revenue'(Sales amount ) - Total revenue is all income generated from the total sales of goods and services regardless of revenue source
+
+'Total Cost' - The cost of sales (COS) is the total of all direct costs involved in making a product or service ready for sale.
+
+'Total Profit'(sales margin amount) - Gross profit, also known as sales profit or gross income, is the profit a business makes after subtracting the cost of goods sold from the total sales
+
+'Order Month'
+
+'Order Year'
+
+'Order 
+
+Profit Margin = Total Profit/Total Revenue
