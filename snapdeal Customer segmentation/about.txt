@@ -1,0 +1,6 @@
+Snapdeal's mission is to become India’s value lifestyle omni-channel leader. This means they want to be the one-stop shop for all offline and online shoppers who are looking for a budget purchase. 
+The company is building a complete ecosystem around value commerce, where they can serve 'Bharat' consumers wherever they are on their offline to online shopping journey. Snapdeal services 96% of the country's pin codes and aims to expand its network to reach the remotest areas of India.
+
+Purpose -
+E-commerce businesses like any other business depend on Customer Relationship Management software to manage customer relationships and drive customer loyalty and retention. Understanding the behavior of their customers and dividing them into segments as per their spending habits, and frequency of platform’s use - helps an e-commerce platform sharpen its customer success policy and increase revenue coming from repeat customers.
+Everyone in the e-commerce business understands that in a crowded marketplace, it is cheaper to retain customers than to acquire new ones for whose attention many competitors are already trying. A simple algorithm called K-means clustering can help Data Scientists better understand customer segments and predict their purchasing behavior and needs. In this menternship, you will get to implement this algorithm using Python.
